@@ -1,0 +1,26 @@
+{
+	"name": "csb-problem",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"sandbox": "node --experimental-json-modules index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/liroliro/csb-problem.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/liroliro/csb-problem/issues"
+	},
+	"homepage": "https://github.com/liroliro/csb-problem#readme",
+	"dependencies": {
+		"axios": "^0.21.4",
+		"codesandbox": "^2.2.3",
+		"form-data": "^4.0.0"
+	}
+}
